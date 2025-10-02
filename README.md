@@ -18,4 +18,10 @@ Below are the Screenshots attached step by step:-
 <img width="1919" height="1019" alt="Screenshot 2025-10-02 105211" src="https://github.com/user-attachments/assets/984660c6-59a4-4917-81a0-daf5e22a42a9" />
 <img width="1914" height="1078" alt="Screenshot 2025-10-02 104917" src="https://github.com/user-attachments/assets/a9cc9814-7f11-4691-9e01-775cddf9d6dd" />
 
+Then, finally intiated git into this directory and pushed README.md file mentioning everything.
+
+<img width="1912" height="1074" alt="Screenshot 2025-10-02 110413" src="https://github.com/user-attachments/assets/fcd6d06a-f8c0-4b17-9e62-05697d8fd772" />
+<img width="1902" height="1061" alt="Screenshot 2025-10-02 110404" src="https://github.com/user-attachments/assets/2f244089-ac48-4566-a238-529e35a969db" />
+
+
 
